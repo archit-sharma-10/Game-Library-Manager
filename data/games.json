@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Assassins Creed Brotherhood",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 15,
+    "status": "Backlog"
+  },
+  {
+    "title": "Assassins Creed Revelations",
+    "genre": "Action-Adventure",
+    "rating": 8,
+    "hours": 12,
+    "status": "Backlog"
+  },
+  {
+    "title": "Batman: Arkham Knight",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 16,
+    "status": "Backlog"
+  },
+  {
+    "title": "Spider-Man 2 ",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 35,
+    "status": "Backlog"
+  },
+  {
+    "title": "The Last of Us Part II",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 25,
+    "status": "Backlog"
+  },
+  {
+    "title": "Astro Bot",
+    "genre": "Adventure",
+    "rating": 10,
+    "hours": 20,
+    "status": "Backlog"
+  },
+  {
+    "title": "Horizon Forbidden West",
+    "genre": "Action RPG",
+    "rating": 9,
+    "hours": 28,
+    "status": "Backlog"
+  },
+  {
+    "title": "Assassins Creed II",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 20,
+    "status": "Completed"
+  },
+  {
+    "title": "Assassins Creed Origins",
+    "genre": "Action RPG",
+    "rating": 9,
+    "hours": 30,
+    "status": "Completed"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare",
+    "genre": "First-Person Shooter",
+    "rating": 8,
+    "hours": 6,
+    "status": "Completed"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 2 (2009)",
+    "genre": "First-Person Shooter",
+    "rating": 9,
+    "hours": 6,
+    "status": "Completed"
+  },
+  {
+    "title": "Days Gone",
+    "genre": "Survival-Adventure",
+    "rating": 8,
+    "hours": 15,
+    "status": "Completed"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 25,
+    "status": "Completed"
+  },
+  {
+    "title": "God of War (2018)",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 20,
+    "status": "Completed"
+  },
+  {
+    "title": "God of War Ragnarok",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 30,
+    "status": "Completed"
+  },
+  {
+    "title": "Gran Turismo Sport",
+    "genre": "Racing",
+    "rating": 8,
+    "hours": 10,
+    "status": "Completed"
+  },
+  {
+    "title": "Grand Theft Auto V",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 30,
+    "status": "Completed"
+  },
+  {
+    "title": "Horizon Zero Dawn",
+    "genre": "Action RPG",
+    "rating": 9,
+    "hours": 30,
+    "status": "Completed"
+  },
+  {
+    "title": "Ratchet \u0026 Clank: Rift Apart",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 10,
+    "status": "Completed"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 60,
+    "status": "Completed"
+  },
+  {
+    "title": "Spider-Man (PS4)",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 25,
+    "status": "Completed"
+  },
+  {
+    "title": "The Last of Us (Part I)",
+    "genre": "Action-Adventure",
+    "rating": 10,
+    "hours": 15,
+    "status": "Completed"
+  },
+  {
+    "title": "Uncharted 4: A Thiefs End",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 15,
+    "status": "Completed"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare 3 (2011)",
+    "genre": "First-Person Shooter",
+    "rating": 7,
+    "hours": 6,
+    "status": "Completed"
+  },
+  {
+    "title": "Rise of the Tomb Raider",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 13,
+    "status": "Wishlist"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "genre": "Action-Adventure",
+    "rating": 9,
+    "hours": 30,
+    "status": "Wishlist"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "rating": 10,
+    "hours": 180,
+    "status": "Wishlist"
+  }
+]
